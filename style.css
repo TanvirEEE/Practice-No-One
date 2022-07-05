@@ -1,3 +1,7 @@
 span {
     color: orangered;
 }
+
+.top-page {
+    display: flex;
+}
